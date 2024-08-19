@@ -1,1 +1,2 @@
-print("Hello CodeSandbox!")
+import sys
+print(sys.version)
